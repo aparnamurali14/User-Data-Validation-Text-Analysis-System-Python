@@ -1,7 +1,5 @@
 # User-Data-Validation-Text-Analysis-System-Python
 
-# User Data Validation & Text Analysis System
-
 This project presents a **Python-based** text processing and validation module designed to clean, verify, and analyze raw user input before it is stored in a system. The application simulates a real-world data intake scenario commonly found in online platforms, focusing on reliable data handling using core Python concepts. The solution emphasizes structured validation, clarity of logic, and robustness while strictly relying on built-in string methods without the use of regular expressions or external libraries.
 
 ---
