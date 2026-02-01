@@ -91,7 +91,7 @@ Name: Anu | Email: anu@gmail.com | Age: 21
 
 ## 🧠 Concepts Covered
 
-* String manipulation (`strip()`, `split()`, `lower()`, `title()`)
+* String manipulation (`replace()`, `split()`, `lower()`, `title()`)
 * Conditional logic (`if-else`)
 * Data validation
 * List processing
