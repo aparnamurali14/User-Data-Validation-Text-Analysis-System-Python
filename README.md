@@ -110,7 +110,7 @@ Name: Suresh | Email: suresh@gmail.com | Age: 25
 Total Records: 5
 Valid Users: 2
 Invalid Users: 3
-Eligible Users: 2
+Eligible Users: 4
 Underage Users: 1
 ```
 
